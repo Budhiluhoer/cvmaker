@@ -1,2 +1,2 @@
 # cvmaker
-bit.ly/cvlink-gratis
+https://bit.ly/cvlink-gratis
