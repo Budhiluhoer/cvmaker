@@ -6,3 +6,4 @@ cv maker
   3. work experience
   4. skills
   5. certificate
+  6. foto
